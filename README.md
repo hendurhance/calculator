@@ -1,5 +1,6 @@
 # calculator
 
+A Simple Calculator Application built on Vue.js technology
 ## Project setup
 ```
 yarn install
